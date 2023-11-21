@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/purple_500</color>
+    <color name="colorPrimaryDark">#260169</color>
+    <color name="colorAccent">@color/gray_30</color>
+    <color name="colorBackground">@color/white_200</color>
+    <color name="colorTextView">@color/gray_70</color>
+    <color name="colorEditTextView">@color/gray_100</color>
+    <color name="black">@color/black_900</color>
+    <color name="window_background">@color/white_60</color>
+    <color name="colorWindowBackground">@color/white_50</color>
+    <color name="colorProgressBar">@color/orange_100</color>
+    <color name="colorSpinnerBg">@color/colorPrimary</color>
+    <color name="colorSpinnerText">@color/white_200</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="transparent_100">#FF000000</color>
+    <color name="transparent_80">#DA000000</color>
+    <color name="transparent_60">#99000000</color>
+    <color name="transparent_50">#D7000000</color>
+    <color name="transparent_40">#66000000</color>
+    <color name="transparent_25">#40000000</color>
+    <color name="transparent_10">#1A000000</color>
+    <color name="transparent_05">#0D000000</color>
+    <color name="transparent_00">#00000000</color>
+    <!--Color palette-->
+
+    <color name="white_200">#dee4ee</color> <!--Color primary (dark)-->
+    <color name="blue_200">#3F51B5</color> <!--Color primary (dark)-->
+    <color name="purple_200">#bb86fc</color> <!--Color primary (dark)-->
+    <color name="purple_500">#6200ee</color> <!--Color primary (light)-->
+    <color name="purple_600">#4b01d0</color> <!--Color primary variant (dark)-->
+    <color name="purple_700">#3700b3</color> <!--Color primary variant (light)-->
+    <color name="green_200">#03dac6</color> <!--Color secondary-->
+    <color name="green_500">#018786</color> <!--Color secondary variant-->
+    <color name="orange_100">#FFCE511C</color>
+    <color name="pink_200">#cf6679</color> <!--Color error (dark)-->
+    <color name="red_600">#b00020</color> <!--Color error (light)-->
+    <color name="white_50">#ffffff</color>
+    <color name="white_60">#F0F0F0</color>
+    <color name="white_70">#E9E9E9</color>
+    <color name="gray_30">#B9BBBD</color>
+    <color name="gray_70">#83898E</color>
+    <color name="gray_100">#333C46</color>
+    <color name="black_800">#121212</color>
+    <color name="black_900">#000000</color>
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,67 @@
+<resources>
+
+    <string name="url_db" translatable="false">https://autoclub2.000webhostapp.com/api/system/</string>
+    <string name="php_script_query_select" translatable="false">query_select.php</string>
+
+    <!-- Tables -->
+    <string name="pref_categoria_meditacion" translatable="false">categoria_meditacion</string>
+
+    <!-- SQL Syntax-->
+    <string name="pref_sql_cat_med_sel" translatable="false">SELECT * FROM categoria_meditacion</string>
+
+    <string name="todo" translatable="false">TODO</string>
+    <string name="frag_meditacion" translatable="false">meditacion</string>
+
+    <string name="app_name">Daily Affirmations</string>
+    <string name="wallpaper_description">Daily Affirmations</string>
+
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">Settings</string>
+    <string name="select_category">Select the Positive Affirmations Category</string>
+    <string name="select_background">Select background images</string>
+    <string name="change_bac">Change image.</string>
+    <string name="change_quote">Change quote</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="support_us">support us</string>
+    <string name="share">Share</string>
+    <string name="about">About and more content</string>
+    <string name="meditacion">Meditation. Active soon.</string>
+
+    <!-- Sync Preferences -->
+    <string name="affirmation_0">Louise Hay Affirmations</string>
+    <string name="affirmation_1">For sleep</string>
+    <string name="affirmation_2">For the morning</string>
+    <string name="affirmation_3">For Wealth, Abundance and Prosperity</string>
+    <string name="affirmation_4">For Self Love and Personal Care</string>
+    <string name="affirmation_5">For Wellness and Health</string>
+    <string name="affirmation_6">To cultivate a Positive Mindset</string>
+    <string name="affirmation_7">For Love and Relationships</string>
+    <string name="affirmation_8">For your Career and Business</string>
+    <string name="affirmation_9">To live in Mindfulness</string>
+
+
+    <!-- Sync meditation categories -->
+    <string name="cat_med_0">Affirmations</string>
+    <string name="cat_med_1">I Am Affirmations</string>
+    <string name="cat_med_2">Mantra</string>
+    <string name="cat_med_3">Mindfulness</string>
+    <string name="cat_med_4">Yoga</string>
+    <string name="cat_med_5">Relaxing Music to Meditate</string>
+
+    <!-- rate it Fragment -->
+    <string name="rate_never">Never</string>
+    <string name="rate_remind_later">Remember later</string>
+    <string name="rate_positive">rate it</string>
+    <string name="rate_message">If you liked this application, please rate us and give us your opinion.</string>
+    <string name="rate_title">Rate this app</string>
+
+    <!-- about Fragment -->
+    <string name="info">If you want to get more content you can enter my Google Play Store developer account</string>
+    <string name="donacion">If you liked my developments and want to support me financially, you can donate the amount that you feel is fair. I will be very grateful for your support and it will be an incentive to continue making free developments.</string>
+    <string name="cantidad">Quantity</string>
+    <string name="go_playstore">Go to Play Store</string>
+
+    <!-- Progress Alert -->
+    <string name="lbl_dialog_wait">Please wait…</string>
+
+</resources>

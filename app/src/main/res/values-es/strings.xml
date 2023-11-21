@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Afirmaciones Diarias</string>
+    <string name="wallpaper_description">Afirmaciones Diarias</string>
+
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">Configuracion</string>
+    <string name="select_category">Selecciona las categorias de Afirmaciones Positivas.</string>
+    <string name="select_background">Selecciona las imagenes de fondo</string>
+    <string name="change_bac">Cambiar Imagen.</string>
+    <string name="change_quote">Cambiar Afirmacion</string>
+    <string name="set_wallpaper">Establecer Fondo de Pantalla</string>
+    <string name="about">Acerca y mas contenidos</string>
+    <string name="support_us">Apoyanos</string>
+    <string name="share">Compartir</string>
+    <string name="meditacion">Meditacion. Pronto Activo.</string>
+
+    <!-- Sync Preferences -->
+    <string name="affirmation_0">Louise Hay</string>
+    <string name="affirmation_1">Para dormir</string>
+    <string name="affirmation_2">Para la mañana</string>
+    <string name="affirmation_3">Riqueza, Abundancia y Prosperidad</string>
+    <string name="affirmation_4">Amor propio y Cuidado Personal</string>
+    <string name="affirmation_5">Bienestar y Salud</string>
+    <string name="affirmation_6">Mentalidad Positiva</string>
+    <string name="affirmation_7">Amor y Relaciones</string>
+    <string name="affirmation_8">Carrera y Negocios</string>
+    <string name="affirmation_9">Vivir en Atención Plena (mindfulness)</string>
+
+    <!-- Sync meditation categories -->
+    <string name="cat_med_0">Afirmaciones</string>
+    <string name="cat_med_1">Yo Soy</string>
+    <string name="cat_med_2">Mantras</string>
+    <string name="cat_med_3">Vida Plena</string>
+    <string name="cat_med_4">Yoga</string>
+    <string name="cat_med_5">Musica Relajante para Meditar</string>
+
+    <!-- rate it Fragment -->
+    <string name="rate_never">Nunca</string>
+    <string name="rate_remind_later">Recordar más tarde</string>
+    <string name="rate_positive">Calificalo</string>
+    <string name="rate_message">Si te gusto esta aplicación, por favor calificanos y danos tu opinion.</string>
+    <string name="rate_title">Califica esta aplicación</string>
+
+    <!-- about Fragment -->
+    <string name="info">Si deseas obtener mas contenido puedes ingresaar a mi cuenta de desarrollador de Google Play Store</string>
+    <string name="donacion">Si te han gustado mis desarrollos y deseas apoyarme economicamente puedes donar la cantidad que ud sienta justa. estare muy agradecido por su apoyo y sera incentivo para continuar haciendo desarrollos gratuitos.</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="go_playstore">Ir a Play Store</string>
+
+    <!-- Progress Alert -->
+    <string name="lbl_dialog_wait">Por Favor Espere…</string>
+
+</resources>

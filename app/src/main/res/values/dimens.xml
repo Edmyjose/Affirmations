@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="myFontSize56">56sp</dimen>
+    <dimen name="myFontSize54">54sp</dimen>
+    <dimen name="myFontSize52">52sp</dimen>
+    <dimen name="myFontSize50">50sp</dimen>
+    <dimen name="myFontSize48">48sp</dimen>
+    <dimen name="myFontSize46">46sp</dimen>
+    <dimen name="myFontSize44">44sp</dimen>
+    <dimen name="myFontSize42">42sp</dimen>
+    <dimen name="myFontSize40">40sp</dimen>
+    <dimen name="myFontSize38">38sp</dimen>
+    <dimen name="myFontSize36">36sp</dimen>
+    <dimen name="myFontSize34">34sp</dimen>
+    <dimen name="myFontSize32">32sp</dimen>
+    <dimen name="myFontSize30">30sp</dimen>
+    <dimen name="myFontSize28">28sp</dimen>
+    <dimen name="myFontSize26">26sp</dimen>
+    <dimen name="myFontSize24">24sp</dimen>
+    <dimen name="myFontSize22">22sp</dimen>
+    <dimen name="myFontSize20">20sp</dimen>
+    <dimen name="myFontSize18">18sp</dimen>
+    <dimen name="myFontSize16">16sp</dimen>
+    <dimen name="myFontSize14">14sp</dimen>
+    <dimen name="myFontSize12">12sp</dimen>
+</resources>
